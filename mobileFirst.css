@@ -13,7 +13,7 @@ a{
 }
 
 .header{
-    background: url(../Image/image-header.jpg) center center / cover;
+    background: url(Image/image-header.jpg) center center / cover;
     height: 480px;
 }
 
@@ -167,16 +167,16 @@ a{
     gap: 20px;
 }
 .image-oeuf{
-    background: url(../Image/image-transform.jpg) center center / cover;
+    background: url(Image/image-transform.jpg) center center / cover;
 }
 .image-verre{
-    background: url(../Image/image-stand-out.jpg) center center / cover;
+    background: url(Image/image-stand-out.jpg) center center / cover;
 }
 .image-pomme{
-    background: url(../Image/image-graphic-design.jpg) no-repeat center center / cover;
+    background: url(Image/image-graphic-design.jpg) no-repeat center center / cover;
 }
 .image-orange{
-    background: url(../Image/image-photography.jpg) no-repeat center center / cover;
+    background: url(Image/image-photography.jpg) no-repeat center center / cover;
 }
 .learn-more a::after{
     background: rgba(233, 155, 100, 0.728);
